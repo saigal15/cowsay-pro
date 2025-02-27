@@ -1,6 +1,6 @@
 module github.com/saigal15/cowsay-go
 
-go 1.21
+go 1.19
 
 require github.com/Code-Hex/Neo-cowsay/v2 v2.0.4
 
